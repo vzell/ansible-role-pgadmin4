@@ -16,5 +16,4 @@ galaxy_info:
     - postgresql
     - database
 
-dependencies:
-  - geerlingguy.repo-epel
+dependencies: []
